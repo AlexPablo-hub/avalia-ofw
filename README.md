@@ -96,6 +96,4 @@ Acesse `http://localhost:5173` no navegador.
 
 [GitHub](https://github.com/AlexPablo-hub) · [LinkedIn](https://www.linkedin.com/in/alex-pablo-d-4961a9141/) · [Instagram](https://instagram.com/alex_p.oliveira/)
 
----
-
 **CineInfo** é um projeto pessoal com fins educativos, sem fins lucrativos. Todos os dados e imagens são fornecidos pela [TMDB](https://www.themoviedb.org/).
