@@ -78,7 +78,7 @@ npm install
 3. Crie um arquivo `.env` na raiz do projeto e adicione sua API KEY da TMDB:
 
 ```env
-VITE_API_KEY=your_tmdb_api_key_here
+VITE_TMDB_BEARER=your_tmdb_api_key_here
 ```
 
 4. Inicie o servidor de desenvolvimento:
