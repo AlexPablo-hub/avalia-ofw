@@ -3,7 +3,7 @@
   <div color="transparent">
     <v-container class="text-center">
       <h1 class="display-1 font-weight-bold tagline">
-        O seu guia para filmes e séries <br>do jeito que você gosta
+        O seu guia para filmes e séries,<br>do jeito que você gosta
       </h1>
     </v-container>
 
